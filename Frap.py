@@ -1,0 +1,6 @@
+edad=input("hola cual es tu edad ")
+print(edad)
+nombre=input("cual es tu nombre ")
+print(nombre)
+opcion=input("tines covid-19 [S/N]")
+print(opcion)
